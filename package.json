@@ -13,6 +13,6 @@
         "vite": "^6.2.0"
     },
     "dependencies": {
-        "refract-js": "^1.1.3"
+        "refract-js": "^1.1.4"
     }
 }
